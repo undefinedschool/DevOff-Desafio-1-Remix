@@ -20,6 +20,8 @@ Deberás implementar una galería de fotos, utilizando **solamente** HTML y CSS.
 
 ✅ Las imágenes deben estar separadas por un margen.
 
+✅ Las imágenes deben adaptarse _responsivamente_ al tamaño del contenedor si este se achica, pero no superar su tamaño máximo si este se agranda.
+
 ✅ Usar Flexbox (no Grids).
 
 ✅ Debe soportar fotos horizontales y verticales.
