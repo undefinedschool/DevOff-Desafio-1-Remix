@@ -14,7 +14,7 @@ Deberás implementar una galería de fotos, utilizando **solamente** HTML y CSS.
 
 ✅ Resetear los estilos del `margin`, `padding` y `box-sizing`.
 
-✅ La galería de fotos debe estar **centrada horizontal y verticalmente** y tener un ancho de 900px.
+✅ La galería de fotos debe estar **centrada horizontal y verticalmente dentro de su contenedor** y tener un ancho de 900px.
 
 ✅ La galería debe tener al menos 10 imágenes y al menos 2 deben ser de diferentes tamaños (ancho/alto).
 
