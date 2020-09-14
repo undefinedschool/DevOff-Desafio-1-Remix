@@ -18,9 +18,11 @@ Deberás implementar una galería de fotos, utilizando **solamente** HTML y CSS.
 
 ✅ La galería debe tener al menos 10 imágenes y al menos 2 deben ser de diferentes tamaños (ancho/alto).
 
-✅ La galería de fotos debe estar **centrada horizontal y verticalmente** y tener un ancho de 900pxge.
+✅ Para resoluciones _mobile_ (max: 500px) las fotos deben visualizarse una debajo de la otra, en 1 columna.
 
 ✅ Las imágenes deben tener borde y estar separadas por un margen.
+
+✅ Las imágenes deben tener un 25% de transparencia por default y volverse totalmente opacas al hacerles _hover_.
 
 ✅ Las imágenes deben adaptarse _responsivamente_ al tamaño del contenedor si este se achica, pero no superar su tamaño máximo si este se agranda.
 
