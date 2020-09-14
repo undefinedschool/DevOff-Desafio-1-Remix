@@ -32,7 +32,9 @@ Deberás implementar una galería de fotos, utilizando **solamente** HTML y CSS.
 
 ✅ Debe poder ampliar una foto a su tamaño original o a un máximo determinado al hacerle un click.
 
-✅ Realizar el deploy en [Vercel](https://vercel.com/)
+✅ Usar el GitHub Flow.
+
+✅ Realizar el deploy en [Vercel](https://vercel.com/).
 
 ✨ Serás libre de implementar la estética y funcionalidad que quieras, siempre y cuando se cumplan las condiciones esenciales del desafío.
 
