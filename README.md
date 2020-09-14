@@ -1,6 +1,6 @@
 ![](https://static-cdn.jtvnw.net/jtv_user_pictures/fb425ddf-5e67-4c84-9210-8065809675f7-profile_banner-480.png)
 
-# Desafío 1 - 26/07/2020
+# Desafío 1 (_remix_)
 
 Deberás implementar una galería de fotos, utilizando **solamente** HTML y CSS.
 
@@ -14,7 +14,7 @@ Deberás implementar una galería de fotos, utilizando **solamente** HTML y CSS.
 
 ✅ La galería de fotos debe estar **centrada horizontal y verticalmente** y tener un ancho de 900px.
 
-✅ La galería debe tener al menos 10 imágenes.
+✅ La galería debe tener al menos 10 imágenes y al menos 2 deben ser de diferentes tamaños (ancho/alto).
 
 ✅ La galería de fotos debe estar **centrada horizontal y verticalmente** y tener un ancho de 900pxge.
 
